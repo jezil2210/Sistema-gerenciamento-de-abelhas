@@ -16,3 +16,6 @@
 </ul>  
 
 <p>O sistema poderá ajudar apicultores de pequena e larga escala no controle sobre acolmeia, evitando perdas biológicas e contribuindo para a preservação das abelhas.</p>
+
+<img src="esquema.png">
+
