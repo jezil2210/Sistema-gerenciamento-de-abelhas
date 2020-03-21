@@ -2,7 +2,7 @@
 
 <p>Colmeia Localizada CEFET-MG campus 2</p>
 
-<img src="colmeia.jpg">
+<img src="images/colmeia.jpg">
 
 <p>As abelhas são seres vivos muito   importantes   que   constituem   a   fauna   terrestre,   são responsáveis por mais de dois terços da polinização e, sem elas, a vida de várias espécies estão ameaçadas. Em 2016, as abelhas foram colocadas na lista de espécies em extinção pelo UnitedStates Fish and Wildlife Service (FWS)</p>
 
@@ -17,5 +17,5 @@
 
 <p>O sistema poderá ajudar apicultores de pequena e larga escala no controle sobre acolmeia, evitando perdas biológicas e contribuindo para a preservação das abelhas.</p>
 
-<img src="esquema.png">
+<img src="images/esquema.png">
 
