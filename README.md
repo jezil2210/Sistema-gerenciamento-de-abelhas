@@ -8,8 +8,10 @@
 
 <p>Foi desenvolvido um sistema de monitoramento de colmeias com o uso de recursos IoT. Esse sistema funciona capturando e tratando dados que são analisados e usados para a criação de gráficos,tabelas   e   a   emissão   de   alertas   no   aplicativo   e   no   site,   com   o   intuito   de   avisar   pessoas responsáveis e evitar danos físicos às colmeias como, por exemplo, invasões, roubos e ataquespor   outros   animais.   Além   de   contribuir   para   pesquisas   e   estudos   que demandam   coletascontínuas de dados de colmeias.O sistema proposto é constituído das seguintes partes:</p>
 
+<h2>Materiais Usados</h2>
+
 <ul>
-  <li>Microcontrolador e Sensores:   inicialmente   composta   por   sensores de temperatura e umidade e o microcontrolador ESP-32</li>
+  <li>Microcontrolador e Sensores:   inicialmente   composto   por   sensores de temperatura e umidade e o microcontrolador ESP-32</li>
   <li>Central  de  dados:  um  servidor  web   que  recebe  os   dados coletados,  processa armazena-os.</li>
 </ul>  
 
