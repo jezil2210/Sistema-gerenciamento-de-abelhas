@@ -19,5 +19,7 @@
 
 <img src="images/esquema.png">
 
+<p>Imprimindo o módulo para colocar a bateria com uma impressora 3D</p>
+
 <img src="images/modulo.png">
 
