@@ -1,3 +1,3 @@
 # Sistema-gerenciamento-de-abelhas
 
-<img src="colmeia.jpeg" />
+<img src="colmeia.jpg" />
