@@ -19,3 +19,5 @@
 
 <img src="images/esquema.png">
 
+<img src="images/modulo.png">
+
