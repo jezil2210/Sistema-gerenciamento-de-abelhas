@@ -1,4 +1,4 @@
-<h1>Sistema de gerenciamento de abelhas sem ferrão</h1>
+<h1>Sistema de gerenciamento de abelhas sem ferrão.</h1>
 
 <p>Colmeia Localizada CEFET-MG campus 2</p>
 
