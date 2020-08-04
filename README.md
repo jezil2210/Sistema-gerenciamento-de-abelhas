@@ -1,6 +1,6 @@
 <h1>Sistema de gerenciamento de abelhas sem ferrão.</h1>
 
-<p>Colmeia Localizada CEFET-MG campus 2, para projeto apresentado na META (Mostra Específica de Trabalhos e Aplicações) 2019 </p>
+<p>Colmeia Localizada CEFET-MG campus 2, para projeto apresentado na META (Mostra Específica de Trabalhos e Aplicações) 2019.</p>
 
 <img src="images/colmeia.jpg">
 
